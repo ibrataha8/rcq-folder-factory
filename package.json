@@ -1,6 +1,6 @@
 {
   "name": "rcq-folder-factory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command-line utility to create folders with a predefined structure for RCQ.",
   "main": "createRCQ.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "generator",
     "rcq"
   ],
-  "author": "Votre Nom",
+  "author": "Brahim Taher",
   "license": "ISC",
   "bin": {
     "rcq-folder-factory": "./createRCQ.js"
