@@ -1,15 +1,24 @@
 {
-  "name": "create-folder-script-new",
-  "version": "1.0.2",
-  "description": "",
+  "name": "rcq-folder-factory",
+  "version": "1.0.0",
+  "description": "A command-line utility to create folders with a predefined structure for RCQ.",
   "main": "createRCQ.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "folder",
+    "generator",
+    "rcq"
+  ],
+  "author": "Votre Nom",
   "license": "ISC",
   "bin": {
-    "create-folder-script": "./createRCQ.js"
-  }
+    "rcq-folder-factory": "./createRCQ.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrataha8/rcq-folder-factory.git"
+  },
+  "homepage": "https://github.com/ibrataha8/rcq-folder-factory#readme"
 }

@@ -18,11 +18,11 @@ This script automates the creation of a new folder with predefined files for you
 
 1. Clone this repository or download the script file.
    ```sh
-   git clone https://github.com/yourusername/create-folder-script-new.git
+   git clone https://github.com/ibrataha8/rcq-folder-factory
    ```
 2. Navigate to the directory containing the script.
    ```sh
-   cd create-folder-script-new
+   cd rcq-folder-factory
    ```
 3. Install Dependencies:
    ```sh
@@ -33,7 +33,7 @@ This script automates the creation of a new folder with predefined files for you
 
 1. Install the package globally:
    ```sh
-   npm i -g create-folder-script-new
+   npm i -g rcq-folder-factory
    ```
 2. Create a new RCQ folder:
    ```sh
