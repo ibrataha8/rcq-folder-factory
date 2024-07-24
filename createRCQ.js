@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require("fs");
 const path = require("path");
 
@@ -14,7 +16,7 @@ if (!folderName) {
 // Définir le chemin du dossier parent "RCQ" dans "src"
 const parentFolderPath = path.join(process.cwd(), "src", "RCQ");
 
-// Créer le dossier "RCQ" s'il n'existe 
+// Créer le dossier "RCQ" s'il n'existe
 if (!fs.existsSync(parentFolderPath)) {
   fs.mkdirSync(parentFolderPath, { recursive: true });
   console.log(`Dossier src/rcq créé avec succès.`);
