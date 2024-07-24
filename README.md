@@ -37,7 +37,7 @@ This script automates the creation of a new folder with predefined files for you
    ```
 2. Create a new RCQ folder:
    ```sh
-   npx create-folder --namefolder=NewFolder
+   npx rcq-folder-factory --namefolder=NewFolder
    ```
 3. Result
 
