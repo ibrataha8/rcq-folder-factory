@@ -2,6 +2,13 @@
 
 This script automates the creation of a new folder with predefined files for your RCQ (Route-Controller-Query) structure in a Node.js project.
 
+<hr/>
+
+- Install: [NPM](https://www.npmjs.com/package/rcq-folder-factory)
+
+- Source code: [Github](https://github.com/ibrataha8/rcq-folder-factory)
+<hr/>
+
 ## Features
 
 - Creates a new folder within the `src/RCQ` directory
